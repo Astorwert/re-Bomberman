@@ -1,0 +1,3 @@
+Coop Game Mode :
+FirstPlayer (WASD) - 0
+SecondPlayer (Arrows) - 10
