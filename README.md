@@ -7,3 +7,9 @@ To play game, run "SDLproject.exe" select game mode by arrows and press 'Enter'.
 Movement WASD and arrows. Bombs - 'space' and right 'Enter' near numpad.
 
 This is not a commercial project made only for educational purposes!!!
+
+![Screenshot](Images/Menu.png)
+
+![Screenshot](Images/GameField.png)
+
+![Screenshot](Images/Gameplay.png)
