@@ -1,11 +1,7 @@
 # re-Bomberman
 Semestral university work C++ 2019
 
-Bomberman is a multiplayer arcade maze game where players must attempt to eliminate each other and be the last one standing. 
-Gameplay involves strategically placing down bombs, which explode in multiple directions after a certain amount of time, in order to destroy obstacles and kill other players. 
-The player can pick up various power-ups, giving them benefits such as larger explosions or the ability to place more bombs down at a time. 
-The player is killed if they touch an enemy or get caught up in a bomb's explosion, including their own, requiring players to be cautious of their own bomb placement.
-The game has several modes that allow you to play against another player, computer or all at the same time.
+Bomberman is a multiplayer arcade maze game where the objective is to eliminate other players and be the last one standing. To achieve this goal, players strategically place bombs that explode after a set time and destroying obstacles and killing other players. Power-ups can be collected, providing benefits such as larger explosions or the ability to place more bombs at once. The game offers various modes, including single-player or co-op modes against the computer.
 
 To play game, run "SDLproject.exe" select game mode by arrows and press 'Enter'.
 Movement WASD and arrows. Bombs - 'space' and right 'Enter' near numpad.
